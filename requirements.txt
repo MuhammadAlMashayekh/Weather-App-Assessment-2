@@ -1,0 +1,9 @@
+python==3.11.8
+Flask==3.1.2
+requests==2.32.5
+google-api-python-client==2.187.0
+google-auth==2.35.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+httplib2==0.22.0
+sqlite3-binary
